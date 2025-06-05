@@ -1,3 +1,4 @@
+//time complexity n^2 because we are using nested loop
 #include<iostream>
 #include<algorithm>
 #include<string>
